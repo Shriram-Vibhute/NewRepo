@@ -1,3 +1,3 @@
 function shraddha () {
-    console.log("hello world")
+    console.log("Another Code");
 }
